@@ -1,0 +1,11 @@
+export { default as Dashboard } from './Dashboard';
+export { default as Cardio } from './Cardio';
+export { default as ColorMapping } from './Charts/ColorMapping';
+export { default as ExerciseData } from './Charts/ExerciseData';
+export { default as Line } from './Charts/Line';
+export { default as Stacked } from './Charts/Stacked';
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as Training } from './Training';
+export { default as Food } from './Food';
+export { default as IndexPage} from './IndexPage';
